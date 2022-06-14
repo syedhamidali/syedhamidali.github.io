@@ -34,22 +34,22 @@ Research experience
 Skills
 ======
 * **Software Development**
- * PyScanCf - The library for handling IMD radar data [(Link)](https://github.com/syedhamidali/PyScanCf)
+  * PyScanCf - The library for handling IMD radar data [(Link)](https://github.com/syedhamidali/PyScanCf)
 * **Programming**
- * Python, IPyParallel, Dask Parallel, Parallel netCDF, MATLAB, FORTRAN 90/95
- * Frequently using:
-  * PyScanCf, Py-ART, Xarray, Wradlib, Scipy, Pandas, Sklearn, PyTorch, Tensorflow, Geopandas, Metpy, etc.
+  * Python, IPyParallel, Dask Parallel, Parallel netCDF, MATLAB, FORTRAN 90/95
+  * Frequently using:
+   * PyScanCf, Py-ART, Xarray, Wradlib, Scipy, Pandas, Sklearn, PyTorch, Tensorflow, Geopandas, Metpy, etc.
 
 * **Visualization and Statistics**
- * Ferret, Climate Data Operators (CDO), Origin.
+  * Ferret, Climate Data Operators (CDO), Origin.
 * **Supercomputing**
- * Purdue's Bell Cluster, IITM’s HPC Pratyush and HPC Aditya
+  * Purdue's Bell Cluster, IITM’s HPC Pratyush and HPC Aditya
 * **First-hand experience with:**
-  * Radar Volume Scan Datasets (vol, Cf-Radial), Disdrometer, Raingauge
- * Satellite Observations
-  * TRMM, GPM (L2, L3, IMERG), INSAT3D, SRTM
- * Reanalysis/Model datasets
-  * ERA-5, ERSST-V5, ERA40, ERA-INTERIM, WRF, GPCP, IMDAA
+   * Radar Volume Scan Datasets (vol, Cf-Radial), Disdrometer, Raingauge
+  * Satellite Observations
+   * TRMM, GPM (L2, L3, IMERG), INSAT3D, SRTM
+  * Reanalysis/Model datasets
+   * ERA-5, ERSST-V5, ERA40, ERA-INTERIM, WRF, GPCP, IMDAA
 
 Publications
 ======
@@ -71,10 +71,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
-
-
-
-# <iframe src="/files/pdf/Williams CV.pdf" width="100%" height="500" 
-# frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-# You can download a PDF copy of my CV [here](/files/pdf/Williams CV.pdf).
+* Currently signed in to 2 slack teams
