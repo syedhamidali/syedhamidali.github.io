@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+WEBSITE IN DEVELOPMENT MODE
+===========================
+**Note: The website is in development mode, the publications, articles, pictures and other documents can or cannot belong belong to me. This is a forked repository of github academic pages, and I am yet to update it fully**
 Welcome! I am an atmospheric sciences student aspiring to explore weather and climate patterns on all scales and apply machine learning tools to meteorological data for better correlation.
 
 I completed my B.E. Mechanical from the [University of Kashmir](https://www.kashmiruniversity.net/) in 2018, followed by M. Tech in Atmospheric Science from the [Savitribai Phule Pune University](https://www.unipune.ac.in) and the [Indian Institute of Tropical Meteorology](https://tropmet.res.in) (IITM), Pune in 2021.
