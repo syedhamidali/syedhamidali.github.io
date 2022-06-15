@@ -10,12 +10,16 @@ redirect_from:
 
 Education
 ======
-* B.E. Mechanical, University of Kashmir, 2018
-* M.Tech. Atmospheric Sciences, Savitribai Phule Pune University, 2021
 * Ph.D. in Atmospheric Sciences, Purdue University, 2025 (expected)
+* M.Tech. Atmospheric Sciences, Savitribai Phule Pune University, 2021
+* B.E. Mechanical, University of Kashmir, 2018
 
 Research experience
 ======
+* **Ph.D. Topic**
+  * Tornadoes in Quasilinear Convective Storms  
+  * Supervisor: Prof. Dr. Dan Dawson
+  
 * **M. Tech Thesis**
   * Title: Characterization of hourly derived radar-based quantitative precipitation estimation of extreme rainfall events
   * Indian Institute of Tropical Meteorology (IITM), Pune
