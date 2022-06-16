@@ -60,13 +60,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Courses/Certifications
 ======
   * Machine Learning by Stanford University	Coursera, Nov 2020
@@ -77,3 +71,25 @@ Courses/Certifications
   * Course on Computer Concepts	NIELIT, Jul 2017
   * Course in C/C++	DOEACC, May 2011
 
+Workshops & Seminars
+======
+  * Basics of Satellite Meteorology at Space Application Center, ISRO	Online Dec 2020
+  * From the Byte to Service: Trans-disciplinary Climate Research	IITM, Feb 2020
+  * National Information System for Climate and Environment Studies and its Activities, NRSC ISRO & IITM Pune	IITM, Jan 2020
+  * Seminar on Clouds in Cyclones	SPPU, Apr 2020  
+  * Seminar on Photosphere	SPPU, Nov 2019  
+  * Seminar on Cyber Security	SPPU, Oct 2019  
+  * Seminar on Autonomous Vehicles	KU, July 2017
+
+Awards
+======
+  * Merit cum means scholarship – Ministry of Minority Affairs, Govt of India.	2014 – 2017 & 2019 – 2021
+
+Volunteering
+======
+  * Volunteered in Annual Monsoon Workshop hosted by Indian Meteorological Society, Pune Chapter	Pune, Feb 2020
+  * Regular career counselling in rural and remote areas of Kashmir Valley
+
+Languages
+====== 
+  * Kashmiri, English, Urdu, & Hindi
