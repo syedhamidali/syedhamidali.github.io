@@ -48,7 +48,7 @@ Skills
   * Ferret, Climate Data Operators (CDO), Origin.
 * **Supercomputing**
   * Purdue's Bell Cluster, IITM’s HPC Pratyush and HPC Aditya
-* **First-hand experience with:**
+* **Experience in:**
    * Radar Volume Scan Datasets (vol, Cf-Radial), Disdrometer, Raingauge
   * Satellite Observations
    * TRMM, GPM (L2, L3, IMERG), INSAT3D, SRTM
@@ -67,5 +67,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Courses/Certifications
 ======
+  * Machine Learning by Stanford University	Coursera, Nov 2020
+  * Understanding and Visualizing Data with Python	Coursera, Oct 2020
+  * Data Analysis with python, IBM 	Coursera, Sep 2020
+  * Python for Data Science, IBM	Coursera, Sep 2020
+  * Python for Everybody by University of Michigan	Coursera, Sep 2020
+  * Course on Computer Concepts	NIELIT, Jul 2017
+  * Course in C/C++	DOEACC, May 2011
+
