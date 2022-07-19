@@ -49,11 +49,11 @@ Skills
 * **Supercomputing**
   * Purdue's Bell Cluster, IITM’s HPC Pratyush and HPC Aditya
 * **Experience in:**
-   * Radar Volume Scan Datasets (vol, Cf-Radial), Disdrometer, Raingauge
+   * Radar Volume Scan Datasets (vol, Cf-Radial), Disdrometer, Raingauge, MRR
   * Satellite Observations
-   * TRMM, GPM (L2, L3, IMERG), INSAT3D, SRTM
+      * TRMM, GPM (L2, L3, IMERG), INSAT3D, SRTM
   * Reanalysis/Model datasets
-   * ERA-5, ERSST-V5, ERA40, ERA-INTERIM, WRF, GPCP, IMDAA
+      * MRMS, NCAR Reanalysis, ERA-5, ERSST-V5, ERA40, ERA-INTERIM, WRF, GPCP, IMDAA
 
 Publications
 ======
