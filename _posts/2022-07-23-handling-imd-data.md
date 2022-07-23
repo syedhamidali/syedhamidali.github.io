@@ -13,9 +13,9 @@ Below are the links of the notebooks that will help you to get used to IMD radar
 This notebook is about merging IMD radar data!
 ------
 
-[Notebook PyScanCf](https://syedha.com/imd/IMD_radar_data_pyscancf.html){target="_blank"}
+[Notebook PyScanCf](https://syedha.com/imd/IMD_radar_data_pyscancf.html){:target="_blank"}
 
 This notebook is about handling IMD gridded rainfall data and GPM IMERG level iii data!
 ------
 
-[Notebook IMD and IMERG](https://syedha.com/imd/GPM_IMD_MATCH-Copy1.html){target="_blank"}
+[Notebook IMD and IMERG](https://syedha.com/imd/GPM_IMD_MATCH-Copy1.html){:target="_blank"}
