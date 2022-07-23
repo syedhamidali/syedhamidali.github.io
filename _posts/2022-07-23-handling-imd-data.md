@@ -8,13 +8,14 @@ tags:
   - python
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+Below are the links of the notebooks that will help you to get used to IMD radar, IMD gridded rain data and its comparison with GPM data. I am still getting used to develop these kind of web pages, so please bear with me. Also, you can reach me via email windcirculation@gmail.com for any suggestions.
 
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
+This notebook is about merging IMD radar data!
 ------
+
+[Notebook PyScanCf](https://syedha.com/imd/IMD_radar_data_pyscancf.htm)
+
+This notebook is about handling IMD gridded rainfall data and GPM IMERG level iii data!
+------
+
+[Notebook IMD and IMERG](https://syedha.com/imd/GPM_IMD_MATCH-Copy1.html)
