@@ -8,7 +8,7 @@ tags:
   - python
 ---
 
-Below are the links of the notebooks that will help you to get used to IMD radar, IMD gridded rain data and its comparison with GPM data. I am still getting used to develop these kind of web pages, so please bear with me. Also, you can reach me via email windcirculation@gmail.com for any suggestions.
+Below are the links of the notebooks that will help you to get used to IMD radar, IMD gridded rain data and its comparison with GPM data. I am still getting used to develop these kind of web pages, so please bear with me. Also, you can reach me via email <a href = "mailto: windcirculation@gmail.com">windcirculation@gmail.com</a> for any suggestions.
 
 This notebook is about merging IMD radar data!
 ------
