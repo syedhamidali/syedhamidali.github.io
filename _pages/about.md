@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an atmospheric sciences student aspiring to explore weather and climate patterns on all scales and apply machine learning tools to meteorological data for better correlation.
+Welcome! I am an atmospheric sciences student aspiring to explore weather and climate patterns on all scales and apply machine learning tools to meteorological data to improve numerical weather prediction.
 
 I completed my B.E. Mechanical from the [University of Kashmir](https://www.kashmiruniversity.net/) in 2018, followed by M. Tech in Atmospheric Science from the [Savitribai Phule Pune University](https://www.unipune.ac.in) and the [Indian Institute of Tropical Meteorology](https://tropmet.res.in) (IITM), Pune in 2021.
 
