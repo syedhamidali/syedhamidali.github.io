@@ -1,5 +1,5 @@
 ---
-title: 'how carbon emissions affect us?'
+title: 'How carbon emissions affect us?'
 date: 2022-07-23
 permalink: /posts/2022/07/co2_emissions/
 tags:
@@ -9,4 +9,7 @@ tags:
   - global warming
 ---
 
-<h1 class="entry-title">How carbon emissions affect our environment</h1>
+<figure class="wp-block-image size-large"><img width="1200" height="800" src="https://static.toiimg.com/photo/71993051/agra-fog.jpg" alt="" class="wp-image-2284" sizes="(max-width: 1200px) 100vw, 1200px"></figure>
+
+
+
