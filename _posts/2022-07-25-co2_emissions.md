@@ -17,7 +17,6 @@ Global warming is primarily caused by carbon emissions. Why, how, and by whom ar
 
 <hr class="wp-block-separator has-text-color has-central-palette-1-color has-css-opacity has-central-palette-1-background-color has-background is-style-wide">
 
-<p class="has-drop-cap">Carbon emissions are the primary contributor to global warming. Why is the amount of CO2 in our atmosphere increasing, how is it produced, and by whom?
-Carbon dioxide (CO<sub>2</sub>) emissions caused by humans are one of our era’s defining phenomena. These emissions, the primary cause of global warming, also contribute to other types of climate change and ocean acidification. However, CO<sub>2</sub> production is not a level playing field across the globe. This section examines the available information on carbon emissions, including where they are produced, why they are produced, and how much is produced.</p>
+<p class="has-drop-cap">Carbon dioxide (CO<sub>2</sub>) emissions caused by humans are one of our era’s defining phenomena. These emissions, the primary cause of global warming, also contribute to other types of climate change and ocean acidification. However, CO<sub>2</sub> production is not a level playing field across the globe. This section examines the available information on carbon emissions, including where they are produced, why they are produced, and how much is produced.</p>
 
 
