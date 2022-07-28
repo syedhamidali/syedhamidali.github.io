@@ -2,6 +2,7 @@
 title: 'How carbon emissions affect us?'
 date: 2022-07-25
 permalink: /posts/2022/07/co2_emissions/
+toc: true
 tags:
   - carbon
   - CO<sub>2</sub>
