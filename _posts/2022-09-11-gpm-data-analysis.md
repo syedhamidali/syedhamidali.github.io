@@ -1,6 +1,7 @@
 ---
 title: 'GPM data analysis with Python'
 date: 2022-09-11
+author: 'Syed Hamid Ali'
 permalink: /posts/2022/09/gpm-data-analysis/
 tags:
   - drpy
