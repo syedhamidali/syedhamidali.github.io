@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "CV"
+subtitle: [Download CV](/files/CV.pdf)
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,7 +18,7 @@ Education
 Research experience
 ======
 * **Ph.D. Topic**
-  * Tornadoes in Quasilinear Convective Storms  
+  * Tornadoes in Quasilinear Convective Systems  
   * Supervisor: Prof. Dr. Dan Dawson
   
 * **M. Tech Thesis**
