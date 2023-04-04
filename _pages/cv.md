@@ -1,13 +1,13 @@
 ---
 layout: archive
 title: "CV"
-subtitle: [Download CV](/files/CV.pdf)
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 {% include base_path %}
+Download my latest CV [here](/files/CV.pdf).
 
 Education
 ======
