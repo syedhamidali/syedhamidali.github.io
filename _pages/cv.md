@@ -94,4 +94,4 @@ Languages
 ====== 
   * Kashmiri, English, Urdu, & Hindi
 
-You can download a PDF copy of my CV [here][here](/files/pdf/CV.pdf).
+You can download a latest PDF copy of my CV [here](/files/pdf/CV.pdf).
