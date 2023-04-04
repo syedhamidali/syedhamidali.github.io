@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-Download my latest CV [here](/files/CV.pdf).
 
 Education
 ======
@@ -94,3 +93,5 @@ Volunteering
 Languages
 ====== 
   * Kashmiri, English, Urdu, & Hindi
+
+You can download a PDF copy of my CV [here][here](/files/pdf/CV.pdf).
