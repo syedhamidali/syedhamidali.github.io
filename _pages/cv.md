@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Atmospheric Sciences, Purdue University, 2025 (expected)
+* Ph.D. in Atmospheric Sciences, Purdue University, 2026 (expected)
 * M.Tech. Atmospheric Sciences, Savitribai Phule Pune University, 2021
 * B.E. Mechanical, University of Kashmir, 2018
 
