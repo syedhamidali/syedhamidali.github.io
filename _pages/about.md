@@ -22,6 +22,6 @@ I did my dissertation at IITM Pune on Radar-based Quantitative Precipitation Est
 <!-- ================ -->
 
 <div style="max-height: 300px; overflow-y: scroll;">
-  <a class="twitter-timeline" data-width="100%" data-tweet-limit="2" href="https://twitter.com/HamidRixvi?ref_src=twsrc%5Etfw">My recent tweets</a> 
+  <a class="twitter-timeline" data-width="300" data-tweet-limit="2" href="https://twitter.com/HamidRixvi?ref_src=twsrc%5Etfw">My recent tweets</a> 
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
