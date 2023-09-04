@@ -44,3 +44,9 @@ def create_colorbar_from_clipboard():
 
 cmap = create_colorbar_from_clipboard()
 cmap
+```
+
+Congratulations! You've successfully created your custom colormap. Feel free to reach out if you need further assistance or have any questions.
+
+Best,<br>
+*Hamid*
