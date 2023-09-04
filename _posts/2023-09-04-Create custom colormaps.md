@@ -19,7 +19,7 @@ tags:
 Welcome to this interactive tutorial on creating custom colormaps. By the end of this post, you'll be able to design your own colormaps effortlessly by manipulating RGB lines according to your preferences.
 
 ### Step 1: Design Your Colormap
-1. Visit https://syedha.com/colormaps.
+1. Visit [https://syedha.com/colormaps](https://syedha.com/colormaps).
 2. Use the interactive tool to drag the RGB lines until you achieve your desired colormap.
 
 ### Step 2: Copy Your Colormap
@@ -30,21 +30,21 @@ Welcome to this interactive tutorial on creating custom colormaps. By the end of
 1. Launch Jupyter Notebook or your preferred Python environment.
 2. Run the following code while the copied matrix is still in your clipboard:
 
-```python
-import pandas as pd
-import matplotlib as mpl
-import numpy as np
 
-def create_colorbar_from_clipboard():
-    df = pd.read_clipboard(header=None)
-    df.columns = ['R', 'G', 'B']
-    c = np.array(df/255.0)
-    cm = mpl.colors.ListedColormap(c)
-    return cm
+        import pandas as pd
+        import matplotlib as mpl
+        import numpy as np
 
-cmap = create_colorbar_from_clipboard()
-cmap
-```
+        def create_colorbar_from_clipboard():
+            df = pd.read_clipboard(header=None)
+            df.columns = ['R', 'G', 'B']
+            c = np.array(df/255.0)
+            cm = mpl.colors.ListedColormap(c)
+            return cm
+
+        cmap = create_colorbar_from_clipboard()
+        cmap
+
 
 Congratulations! You've successfully created your custom colormap. Feel free to reach out if you need further assistance or have any questions.
 
