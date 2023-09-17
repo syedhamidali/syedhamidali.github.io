@@ -15,6 +15,7 @@ redirect_from:
     filter: grayscale(100%);
   }
 </style>
+![Global temp anomaly from 1850-2018.](global_temp_stripes.png){: #header-img }
 
 Hello and welcome to my profile! I am an enthusiastic atmospheric sciences student, driven by a deep-seated passion for understanding and predicting weather and climate patterns. My pursuit of this goal has led me to explore a diverse range of topics, from machine learning tools to meteorological data analysis and beyond.
 
