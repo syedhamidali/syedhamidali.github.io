@@ -10,6 +10,12 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  #header-img {
+    filter: grayscale(100%);
+  }
+</style>
+
 Hello and welcome to my profile! I am an enthusiastic atmospheric sciences student, driven by a deep-seated passion for understanding and predicting weather and climate patterns. My pursuit of this goal has led me to explore a diverse range of topics, from machine learning tools to meteorological data analysis and beyond.
 
 As part of my journey, I have pursued a Bachelor’s degree in Mechanical Engineering from the [University of Kashmir](https://www.kashmiruniversity.net/){:target="_blank"} and a Master’s degree in Atmospheric Science from [Savitribai Phule Pune University](https://www.unipune.ac.in){:target="_blank"} and [Indian Institute of Tropical Meteorology](https://tropmet.res.in){:target="_blank"} (IITM), Pune. During my time at IITM Pune, I worked on developing radar-based quantitative precipitation estimation techniques for my dissertation under the guidance of [Dr. M.C.R. Kalapureddy](https://www.tropmet.res.in/106-Madhu%20Chandra%20R.%20Kalapureddy-scientist_detail){:target="_blank"} and [Dr. Kishore K. Grandhi]( https://uohyd.irins.org/profile/344518){:target="_blank"}. As a result of my work, I built [PyScanCf](https://syedha.com/PyScanCf/){:target="_blank"}, a powerful Python Library that allows researchers and students to process radar data and perform advanced analysis.
