@@ -15,9 +15,6 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Projects"
-    url: /myprojects/
-
   - title: "PyScanCf"
     url: /PyScanCf/
 
