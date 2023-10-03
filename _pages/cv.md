@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-Education
+<!-- Education
 ======
 * Ph.D. in Atmospheric Sciences, Purdue University, 2026 (expected)
 * M.Tech. Atmospheric Sciences, Savitribai Phule Pune University, 2021
@@ -92,6 +92,8 @@ Volunteering
 
 Languages
 ====== 
-  * Kashmiri, English, Urdu, & Hindi
+  * Kashmiri, English, Urdu, & Hindi -->
 
-[You can download a latest PDF copy of my CV](/files/pdf/CV.pdf) [here]().
+<iframe src="/files/pdf/CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+You can download a PDF copy of my CV [here](/files/pdf/CV.pdf).
