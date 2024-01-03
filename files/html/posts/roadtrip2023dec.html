@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Geolocation</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.css" />
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="map" style="width:100%; height: 100vh"></div>
+    <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.js"></script>
+    <script>
+        var map = L.map('map').setView([37.5, -100], 5);
+        L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+            attribution: 'Leaflet &copy; OpenStreetMap contributors',
+            maxZoom: 18
+        }).addTo(map);
+
+        var taxiIcon = L.icon({
+            iconUrl: 'images/posts/trips/carlow.png',
+            iconSize: [60, 60]
+        });
+
+        var marker = L.marker([40.4242798, -86.9005268], { icon: taxiIcon }).addTo(map);
+
+        L.Routing.control({
+            waypoints: [
+                L.latLng(40.4242798, -86.9005268),
+                L.latLng(39.1199695, -88.5726942),
+                L.latLng(37.8363336, -92.1003536),
+                L.latLng(37.2267521, -93.2529014),
+                L.latLng(37.0563303, -94.5363545),
+                L.latLng(37.0037392, -94.5522643),
+                L.latLng(36.0958536, -95.911645),
+                L.latLng(35.4429887, -97.6001958),
+                L.latLng(35.1878311, -102.0112837),
+                L.latLng(35.0820494, -106.622445),
+                L.latLng(35.6854278, -105.9372625),
+                L.latLng(35.6631232, -105.9517794),
+                L.latLng(35.1082496, -106.622406),
+                L.latLng(34.9739939, -110.0901327),
+                L.latLng(35.2062587, -111.6190841),
+                L.latLng(35.1926791, -111.6596513),
+                L.latLng(36.0160655, -114.7377325),
+                L.latLng(36.1366568, -115.1628538),
+                L.latLng(35.1986508, -113.901076),
+                L.latLng(36.89593, -111.444531),
+                L.latLng(36.9063768, -111.4756111),
+                L.latLng(36.9158457, -111.4584862),
+                L.latLng(36.9063768, -111.4756111),
+                L.latLng(37.347103, -108.287244),
+                L.latLng(36.8352594, -107.9996424),
+                L.latLng(36.7288804, -108.2036947),
+                L.latLng(38.5715877, -109.5497615),
+                L.latLng(39.0731357, -108.5591196),
+                L.latLng(39.1096554, -108.5423784),
+                L.latLng(39.5959489, -104.9015501),
+                L.latLng(39.5960033, -104.8827787),
+                L.latLng(39.1710492, -94.5475206),
+                L.latLng(39.2108547, -94.5460638),
+                L.latLng(39.1710492, -94.5475206),
+                L.latLng(39.76037, -89.64861),
+                L.latLng(40.4242798, -86.9005268)
+            ],
+            routeWhileDragging: false,
+            draggableWaypoints: false
+        }).on('routesfound', function (e) {
+            var routes = e.routes;
+            e.routes[0].coordinates.forEach(function (coord, index) {
+                setTimeout(function () {
+                    marker.setLatLng([coord.lat, coord.lng]);
+                }, 1 * index);
+            });
+        }).addTo(map);
+    </script>
+</body>
+</html>
