@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Photo Collage</title>
+    <style>
+        .photo-collage {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 10px;
+        }
+
+        .photo-collage img {
+            width: 100%;
+            height: auto;
+            object-fit: cover;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 600px) {
+            .photo-collage {
+                grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="photo-collage">
+    <img src="https://lh3.googleusercontent.com/pw/ABLVV856kn883Gqw4cvw1Q49fMPBWk2HZInG76tBVXpKTgjpIdclrNvkAMrn4ppWwa9sI9Znzw7OXrolQf5x9ncN0in9AVOxg8asM7mEhMGjk4KsRA2QfkaUMM_F_6EAVBj9VTmrPvgZvKgbeSW3Z-Oos-AZFA=w2008-h1506-s-no-gm?authuser=0" alt="Photo 1">
+    <img src="https://lh3.googleusercontent.com/pw/ABLVV85XWDV4WY2hu789kM9bD93bxXZtSdmDtaWaqsLRHGebNcjWgH0XUEY6XtsjMHb1zI4mtJ3iGhKOuFogw-ttiLarKWg2tROX9kSec1kzQhTtMgsd7_aOfSxZU-UqGfP400BNFqSPaV77bmXP0uGPiIFr3w=w2008-h1506-s-no-gm?authuser=0" alt="Photo 3">
+    <!-- Add more images as needed -->
+</div>
+
+</body>
+</html>
