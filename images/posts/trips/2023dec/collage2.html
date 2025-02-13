@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Photo Collage</title>
+    <style>
+        .photo-collage {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 10px;
+        }
+
+        .photo-collage img {
+            width: 100%;
+            height: auto;
+            object-fit: cover;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 600px) {
+            .photo-collage {
+                grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="photo-collage">
+    <img src="https://lh3.googleusercontent.com/pw/ABLVV87BSb6xz_tEVNINcaadf7XyMqwBLw99x_5QFh6HnCpZxrBx3sUEYNq-w9J7RIGiw70Y3dXhWUK9L5PB76yfke5b9Rr4BkvuZv4SOh5WXm3J4CIeMTSCNdjjLKsAPsjEvN9V2_cgqQrT7my-P9Lk5OSZ=w3024-h1362-s-no-gm?authuser=0" alt="Mesa Verde">
+    <img src="https://lh3.googleusercontent.com/pw/ABLVV86xbxOLOTEnrSLMsKP_bKtatE6M6BH9Qz4wrIXdx-fdjf_seKtSOkLnkNdBKe340fvqiZN8iSNm3_zbOHGQoN-5aPUCi7tY7gEhO9YxR-wrHL8OSAB18aMNybRFaIk1SHTE4HKiLdRKwtMzQ9ZfMZ13jA=w2008-h1506-s-no-gm?authuser=0" alt="Mesa Verde Full">
+    <img src="https://lh3.googleusercontent.com/pw/ABLVV879ukVHFtvqyDnQLkHyMfzDziyH_Os43Mfbaoxy-wK3hrvjeZmTHJKLJiTyOWKLVIS7ldnebdoEyU_Kef_rn5mu1uCKzF8sXjatNg16CvKdkkLyEdJAfKM1LccOyFiZEH2wJAM4qtfm240lMvWKKfbU7w=w2008-h1506-s-no-gm?authuser=0" alt="Aztec Ruins">
+    <img src="https://lh3.googleusercontent.com/pw/ABLVV84BF_0LVZROxIukjWEdK3LVxUVP4i2HKeq4A4Z_aPsPUHyx-UqXpAeDld8UscKEjmp0I7ppttb8DOq5ndjD70GR7hEzFXEjutcHxrB8NgNW8vT04v9NKpuAjaxmeXHZ52E5zr488-FDQ6bRVxbDukB-jA=w2008-h1506-s-no-gm?authuser=0" alt="Aztec Ruins">
+
+</div>
+
+</body>
+</html>

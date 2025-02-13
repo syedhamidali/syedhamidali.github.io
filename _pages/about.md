@@ -3,26 +3,27 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
+header:
+  image: Banner-Front2.png
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Hello and welcome to my profile! I am an atmospheric science enthusiast, driven by a deep-seated passion for understanding and predicting weather and climate patterns. My pursuit of this goal has led me to explore a diverse range of topics, from machine learning tools to meteorological data analysis and beyond.
 
-I earned my PhD in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-BA in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) in the
-*American Political Science Review*, *International Studies Quarterly*,
-*Conflict Management and Peace Science*, and
-*Political Science Research and Methods*, among other outlets. This
-[research](research) explores the causes and consequences of political violence
-using a broad variety of methods such as latent variable models, geospatial
-analysis, and big data. I have [taught](teaching) quantitative methodology and
-international relations, and am a certified instructor with
-[The Carpentries](https://carpentries.org).
+As part of my journey, I have pursued a Bachelor’s degree in Mechanical Engineering from the [University of Kashmir](https://www.kashmiruniversity.net/){:target="_blank"} and a Master’s degree in Atmospheric Science from [Savitribai Phule Pune University](https://www.unipune.ac.in){:target="_blank"} and [Indian Institute of Tropical Meteorology](https://tropmet.res.in){:target="_blank"} (IITM), Pune. During my time at IITM Pune, I worked on developing radar-based quantitative precipitation estimation techniques for my dissertation under the guidance of [Dr. M.C.R. Kalapureddy](https://www.tropmet.res.in/106-Madhu%20Chandra%20R.%20Kalapureddy-scientist_detail){:target="_blank"} and [Dr. Kishore K. Grandhi]( https://uohyd.irins.org/profile/344518){:target="_blank"}. I have been actively developing and contributing to open-source Pythonic softwares such as [PyScanCf](https://syedha.com/PyScanCf/){:target="_blank"}, [Radarx](https://radarx.rtfd.io/){:target="_blank"}, [Xradar](https://xradar.rtfd.io/){:target="_blank"},{:target="_blank"}, [Py-ART](https://arm-doe.github.io/pyart/){:target="_blank"},  [PyDDA](https://openradarscience.org/PyDDA/){:target="_blank"}, etc.
+
+Currently, I am a Grad Research Assistant in the [Department of Earth, Atmospheric, and Planetary Sciences](https://eaps.purdue.edu){:target="_blank"}, [Purdue University](https://purdue.edu){:target="_blank"}, where my research is focused on [Quasilinear Convective Systems]( https://en.wikipedia.org/wiki/Squall_line){:target="_blank"}, with the ultimate goal of enhancing the accuracy of short-range numerical predictions for severe convective storms and their associated hazards.
+
+With every new challenge and project, I am constantly striving to expand my knowledge and skills, and I believe that my passion for atmospheric sciences will continue to inspire me throughout my academic and professional journey. Thank you for taking the time to read my profile, and I look forward to connecting with others who share my passion for meteorology and the natural world.
+
+
+<!-- ================ -->
+<!-- My Recent Tweets -->
+<!-- ================ -->
+
+<div style="max-height: 300px; overflow-y: scroll;">
+  <a class="twitter-timeline" data-width="300" href="https://twitter.com/HamidRixvi?ref_src=twsrc%5Etfw">My recent tweets</a> 
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
